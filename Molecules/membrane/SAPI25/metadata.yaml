@@ -1,5 +1,6 @@
 NMRlipids:
   id: SAPI25
+  name: '1-stearoyl-2-arachidonoyl-sn-phosphatidylinositol 4,5-biphosphate'
   charge: -4
 sameAs:
   pubchem.compound: 5497157
